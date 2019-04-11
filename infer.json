@@ -1,0 +1,7 @@
+{
+    "data":"normal.png",
+    "model_path":"mymodel.h5",
+    "secondary_model_path":[],
+    "label_path":"class.json",
+    "return_image":"False"
+}
